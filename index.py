@@ -3,7 +3,7 @@ import time
 import json
 driver = webdriver.Chrome()
 
-driver.get('https://beautygarden.vn/danh-muc/dau-goi.html?page=2')
+driver.get('https://beautygarden.vn/danh-muc/serum-duong-toc.html?page=2')
 
 time.sleep(2)
 driver.find_element_by_xpath('/html/body/div[4]/div/div/div/div/div/button[1]').click()
@@ -25,8 +25,8 @@ def get_data_from_page(page_url):
 
     try:
         prd_cat = {
-            "cat_id": "dau-goi", 
-            "cat_text": "Dầu gội", 
+            "cat_id": "serum-duong-toc", 
+            "cat_text": "Serum dưỡng tóc", 
             "parent_cat": {
                 "cat_id": "cham-soc-toc", 
                 "cat_text": "Chăm Sóc Tóc"}}

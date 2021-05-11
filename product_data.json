@@ -8858,5 +8858,1110 @@
         "product_img_urls": [
             "https://adminbeauty.hvnet.vn/Upload/Files/bo-dau-goi-dau-xa-kerasys-volume-clinic-600ml3-beauty-garden-1.jpg"
         ]
+    },
+    {
+        "product_name": "M\u1ed9c Nhu D\u1ea7u X\u1ea3 Thi\u00ean Nhi\u00ean D\u1ea7u D\u1eeba & H\u01b0\u01a1ng Nhu",
+        "product_price": "199,000\u20ab",
+        "product_old_price": "244,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a2-24062019031559.jpg"
+        ]
+    },
+    {
+        "product_name": "B\u1ed9 G\u1ed9i X\u1ea3 D\u01b0\u1ee1ng T\u00f3c B\u00f3ng M\u01b0\u1ee3t Tsubaki Premium",
+        "product_price": "180,000\u20ab",
+        "product_old_price": "201,000\u20ab",
+        "product_discount": "- 11%",
+        "product_rating": "4.5",
+        "product_colors": [
+            " rgb(226, 102, 102)",
+            " rgb(229, 85, 85)"
+        ],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/premium-do-29052020085201.jpg"
+        ]
+    },
+    {
+        "product_name": "B\u1ed9 N\u01b0\u1edbc G\u1ed9i & D\u1ea7u X\u1ea3 M\u1ed9c Nhu Gi\u1ea3m R\u1ee5ng T\u00f3c",
+        "product_price": "390,000\u20ab",
+        "product_old_price": "415,000\u20ab",
+        "product_discount": "- 7%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/cawjo-g%E1%BB%99i-x%E1%BA%A3.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u1ea7u X\u1ea3 OGX Thick And Full Biotin And Collagen",
+        "product_price": "250,000\u20ab",
+        "product_old_price": "275,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.1",
+        "product_colors": [
+            " rgb(110, 36, 209)",
+            " rgb(108, 52, 168)"
+        ],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/dau-xa-kich-thich-moc-toc-OGX-Thick-And-Full-Biotin-And-Collagen.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/dau-xa-kich-thich-moc-toc-OGX-Thick-And-Full-Biotin-And-Collagen1.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/dau-xa-kich-thich-moc-toc-OGX-Thick-And-Full-Biotin-And-Collagen12.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/dau-xa-kich-thich-moc-toc-OGX-Thick-And-Full-Biotin-And-Collagen3.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u1ea7u X\u1ea3 T\u00f3c Simple Kind To Hair Gentle Care",
+        "product_price": "105,000\u20ab",
+        "product_old_price": "127,000\u20ab",
+        "product_discount": "- 18%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/dau-xa-toc-12122019111826.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u1ea7u X\u1ea3 Dr.For Hair Folligen Scalp Pack",
+        "product_price": "551,000\u20ab",
+        "product_old_price": "578,000\u20ab",
+        "product_discount": "- 5%",
+        "product_rating": "4",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Folligen-Scalp-Pack-250ml.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/1608957491-dauduongtocfolligenscalppack3-24032021035655.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/1608957491-dauduongtocfolligenscalppack4-24032021035658.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/1608957491-dauduongtocfolligenscalppack2-24032021035701.jpg"
+        ]
+    },
+    {
+        "product_name": "B\u1ed9 G\u1ed9i - X\u1ea3 TIGI Recovery",
+        "product_price": "450,000\u20ab",
+        "product_old_price": "473,000\u20ab",
+        "product_discount": "- 5%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Avatar-SP-Web(1)(1)-Recovered(11).jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/goi-xa-tigi-so-2-30112020101257.jpg"
+        ]
+    },
+    {
+        "product_name": "B\u1ed9 G\u1ed9i - X\u1ea3 TIGI Resurrection",
+        "product_price": "450,000\u20ab",
+        "product_old_price": "468,000\u20ab",
+        "product_discount": "- 4%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Avatar-SP-Web(1)(1)-Recovered(10).jpg"
+        ]
+    },
+    {
+        "product_name": "D\u1ea7u G\u1ed9i - D\u1ea7u X\u1ea3 OGX Coconut Milk Shampoo 385ml",
+        "product_price": "230,000\u20ab",
+        "product_old_price": "253,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Avatar-SP-Web(1)(1)-Recovered-Recovered(3).jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/dau-goi-coconut-23102020101233.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/70592367cd27aafb49b38118136775ab-23102020101236.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u1ea7u X\u1ea3 Tsubaki Treatment",
+        "product_price": "150,000\u20ab",
+        "product_old_price": "172,000\u20ab",
+        "product_discount": "- 13%",
+        "product_rating": "4.3",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/dn2-30032020034500.jpg"
+        ]
+    },
+    {
+        "product_name": "B\u1ed9 G\u1ed9i X\u1ea3 K\u00edch Th\u00edch M\u1ecdc T\u00f3c HairBurst",
+        "product_price": "580,000\u20ab",
+        "product_old_price": "606,000\u20ab",
+        "product_discount": "- 5%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-1-recovered-recovered-12032020103323.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/35c73ad2-02ed-4f7c-97d5-f7e5b69e9b67-12032020105353.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/8c999f95360794a089af509d0d43f753-12032020105402.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/89f82863fc39c5da750158ac1ca83b3c-12032020105409.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/681d15c4-560f-477f-a194-cde119b1ed25-jpeg-12032020105415.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/53915100-587653761719816-5168656432479862784-n-12032020105729.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u1ea7u X\u1ea3 Th\u1ea3o M\u1ed9c B\u00e1ch D\u01b0\u1ee3c 200ml",
+        "product_price": "190,000\u20ab",
+        "product_old_price": "214,000\u20ab",
+        "product_discount": "- 12%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/dau-xa-20092019044650.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u1ea7u G\u1ed9i X\u1ea3 Suave Kids Frozen #Berry-Flurry",
+        "product_price": "180,000\u20ab",
+        "product_old_price": "202,000\u20ab",
+        "product_discount": "- 11%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-1-recovered-30072019023219.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u1ea7u X\u1ea3 Ph\u1ee5c H\u1ed3i T\u00f3c L'Oreal Paris Elseve",
+        "product_price": "130,000\u20ab",
+        "product_old_price": "157,000\u20ab",
+        "product_discount": "- 20%",
+        "product_rating": "4.3",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a1-01042019085913.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-01042019085917.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a3-01042019085921.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u1ea7u X\u1ea3 L'Oreal Paris Elseve Conditioner 325ml",
+        "product_price": "130,000\u20ab",
+        "product_old_price": "149,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a1-29032019044602.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a4-29032019044612.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-29032019044616.jpg"
+        ]
+    },
+    {
+        "product_name": "B\u1ed9 G\u1ed9i X\u1ea3 H&S Shampoo-Conditioner Pump 370ml X2",
+        "product_price": "260,000\u20ab",
+        "product_old_price": "278,000\u20ab",
+        "product_discount": "- 7%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a3-12102018112529.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a1-12102018112542.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a4-12102018112547.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u1ea7u G\u1ed9i Head&Shoulders Classic Clean 2in1",
+        "product_price": "250,000\u20ab",
+        "product_old_price": "272,000\u20ab",
+        "product_discount": "- 9%",
+        "product_rating": "4.2",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/q1-09102018110149.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/q2-09102018110157.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/q6-09102018110205.jpg"
+        ]
+    },
+    {
+        "product_name": "B\u1ed9 D\u1ea7u G\u1ed9i, D\u1ea7u X\u1ea3 Th\u1ea3o M\u1ed9c K\u00edch M\u1ecdc T\u00f3c Laila",
+        "product_price": "150,000\u20ab",
+        "product_old_price": "176,000\u20ab",
+        "product_discount": "- 15%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/37c6858aa0b141ef18a0.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u1ea7u X\u1ea3 L'Oreal Elseve Color Protect Conditioner",
+        "product_price": "130,000\u20ab",
+        "product_old_price": "156,000\u20ab",
+        "product_discount": "- 20%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/1(81).jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/3(57).jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/2(61).jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/1(82).jpg"
+        ]
+    },
+    {
+        "product_name": "D\u1ea7u X\u1ea3 Tsubaki Shampoo Damage Care",
+        "product_price": "150,000\u20ab",
+        "product_old_price": "170,000\u20ab",
+        "product_discount": "- 12%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Tsubaki-Shampoo-Conditioner-Damage-Care-Beauty-Garden(1).jpg"
+        ]
+    },
+    {
+        "product_name": "D\u1ea7u X\u1ea3 L'Or\u00e9al Elseve Conditioner Fall Resist",
+        "product_price": "81,000\u20ab",
+        "product_old_price": "101,000\u20ab",
+        "product_discount": "- 20%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/dau-xa-LOr%C3%A9al-Elseve-Conditioner-170ml-Fall-Resist.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/dau-xa-LOr%C3%A9al-Elseve-Conditioner-170ml-Fall-Resist-hinh-anh2.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/dau-xa-LOr%C3%A9al-Elseve-Conditioner-170ml-Fall-Resist-hinh-anh1.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/dau-xa-LOr%C3%A9al-Elseve-Conditioner-170ml-Fall-Resist-hinh-anh3.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u1ea7u X\u1ea3 Avalon Organic Therapy",
+        "product_price": "230,889\u20ab",
+        "product_old_price": "250,889\u20ab",
+        "product_discount": "- 8%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/dau-xa.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/dau-xa(1).jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/dau-xa-2.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/dau-xa-1(1).jpg"
+        ]
+    },
+    {
+        "product_name": "D\u1ea7u X\u1ea3 Miseen Scalp Care Rinse Fresh & Mild",
+        "product_price": "130,750\u20ab",
+        "product_old_price": "156,750\u20ab",
+        "product_discount": "- 17%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/dau-xa-scalp.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u1ea7u G\u1ed9i - D\u1ea7u X\u1ea3 Shiseido Tsubaki",
+        "product_price": "170,000\u20ab",
+        "product_old_price": "192,000\u20ab",
+        "product_discount": "- 12%",
+        "product_rating": "4.2",
+        "product_colors": [
+            " rgb(219, 101, 239)",
+            " rgb(247, 67, 70)",
+            " rgb(254, 247, 247)",
+            " rgb(252, 250, 252)",
+            " rgb(132, 36, 234)",
+            " rgb(242, 20, 20)"
+        ],
+        "product_cat": {
+            "cat_id": "dau-xa",
+            "cat_text": "D\u1ea7u x\u1ea3",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a3-15032019090101.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a1-15032019090108.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-15032019090111.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a4-15032019090116.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc D\u01b0\u1ee1ng T\u00f3c Tinh D\u1ea7u B\u01b0\u1edfi Cocoon",
+        "product_price": "145,000\u20ab",
+        "product_old_price": "146,000\u20ab",
+        "product_discount": "- 1%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-1-recovered-recovered-03092019025947.jpg"
+        ]
+    },
+    {
+        "product_name": "Tinh D\u1ea7u D\u01b0\u1ee1ng T\u00f3c Miseen Sc\u00e8ne Perfect Repair",
+        "product_price": "190,000\u20ab",
+        "product_old_price": "229,000\u20ab",
+        "product_discount": "- 18%",
+        "product_rating": "4.1",
+        "product_colors": [
+            " rgb(227, 203, 66)",
+            " rgb(142, 204, 225)",
+            " rgb(253, 155, 155)",
+            " rgb(218, 88, 88)"
+        ],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-1-recovered-recovered-recovered-recovered-recovered-recovered-recovered-recovered-recovered-17022020091947.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/1532828613_l-12032020093317.jpg"
+        ]
+    },
+    {
+        "product_name": "Tinh Ch\u1ea5t Ph\u1ee5c H\u1ed3i T\u00f3c Cocoon Sachi Serum",
+        "product_price": "125,000\u20ab",
+        "product_old_price": "147,000\u20ab",
+        "product_discount": "- 15%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/2a80c2a0720a9454cd1b-25112019104009.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/65c2eae25a48bc16e559-25112019104216.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/sachi-serum-phuc-hoi-toc-70ml-25112019104228.jpg"
+        ]
+    },
+    {
+        "product_name": "Tinh Ch\u1ea5t K\u00edch Th\u00edch M\u1ecdc T\u00f3c Sato Carpronium",
+        "product_price": "160,000\u20ab",
+        "product_old_price": "181,000\u20ab",
+        "product_discount": "- 12%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Sato-Carpronium-Chloride-Solution.jpg"
+        ]
+    },
+    {
+        "product_name": "Tinh Ch\u1ea5t Dr.For Hair Folligen Tonic Original",
+        "product_price": "395,000\u20ab",
+        "product_old_price": "420,000\u20ab",
+        "product_discount": "- 6%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Dr_For-Hair-Folligen-Tonic-Original.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/535564_800-24032021031507.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/57_a70c667e-d84f-4b31-bddc-d7e68359b8ad_480x-24032021031510.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/1608889269-z2194177004941_0045112aec1de35425396c012453673e-24032021031514.jpg"
+        ]
+    },
+    {
+        "product_name": "X\u1ecbt D\u01b0\u1ee1ng T\u00f3c Tsubaki Hair Water",
+        "product_price": "150,000\u20ab",
+        "product_old_price": "169,000\u20ab",
+        "product_discount": "- 12%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/xit-duong-vang-29052020094732.jpg"
+        ]
+    },
+    {
+        "product_name": "Tinh Ch\u1ea5t D\u01b0\u1ee1ng T\u00f3c Kerasys Keramide Clinic",
+        "product_price": "140,000\u20ab",
+        "product_old_price": "164,000\u20ab",
+        "product_discount": "- 15%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/serum-toc-15042020082658.jpg"
+        ]
+    },
+    {
+        "product_name": "Tinh D\u1ea7u D\u01b0\u1ee1ng T\u00f3c Raip R3 Argan Hair Oil",
+        "product_price": "140,000\u20ab",
+        "product_old_price": "161,000\u20ab",
+        "product_discount": "- 14%",
+        "product_rating": "4.3",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-1-recovered-recovered-recovered-recovered-recovered-recovered-28022020100038.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/95ff71c562d40a93fcc39aadaf557f82-28022020101720.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/tinh-dau-duong-va-phuc-hoi-toc-hu-ton-raip-r3-argan-hair-oil-12-28022020101723.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/72314808_448070629441445_1793725160071906797_n-28022020101727.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/59872324_675211366246042_9186369683797213284_n-28022020101730.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/argan_pink_7c6a48799ec345e681478633764d5fb6_1024x1024-28022020101734.jpg"
+        ]
+    },
+    {
+        "product_name": "Tinh D\u1ea7u D\u01b0\u1ee1ng T\u00f3c L'Oreal Paris",
+        "product_price": "210,000\u20ab",
+        "product_old_price": "231,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/duong-toc-loreal-23102019104031.jpg"
+        ]
+    },
+    {
+        "product_name": "X\u1ecbt T\u1ea1o N\u1ebfp T\u00f3c TRESemm\u00e9 Hair Spray Reinvented",
+        "product_price": "160,000\u20ab",
+        "product_old_price": "185,000\u20ab",
+        "product_discount": "- 14%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/2(86).jpg"
+        ]
+    },
+    {
+        "product_name": "Miseen Sc\u00e8ne Perfect Repair #Styling",
+        "product_price": "195,000\u20ab",
+        "product_old_price": "216,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-1-29072019095948.jpg"
+        ]
+    },
+    {
+        "product_name": "Vi\u00ean Serum D\u01b0\u1ee1ng T\u00f3c Menas Hair Serum",
+        "product_price": "2,000\u20ab",
+        "product_old_price": "21,000\u20ab",
+        "product_discount": "- 91%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a1-05112018030653.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a4-05112018030659.jpg"
+        ]
+    },
+    {
+        "product_name": "Tinh Ch\u1ea5t D\u01b0\u1ee1ng T\u00f3c Miseen Sc\u00e8ne Perfect Repair",
+        "product_price": "195,000\u20ab",
+        "product_old_price": "217,000\u20ab",
+        "product_discount": "- 11%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/tinh-chat-duong-toc-Miseen-Sc%C3%A8ne-Perfect-Repair-Hair-Serum1.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/tinh-chat-duong-toc-Miseen-Sc%C3%A8ne-Perfect-Repair-Hair-Serum-hinh-anh4.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/tinh-chat-duong-toc-Miseen-Sc%C3%A8ne-Perfect-Repair-Hair-Serum-hinh-anh5.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/tinh-chat-duong-toc-Miseen-Sc%C3%A8ne-Perfect-Repair-Hair-Serum.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/192658901147d058df0f4e274bde6dbc-24092019102714.jpg"
+        ]
+    },
+    {
+        "product_name": "Tinh Ch\u1ea5t D\u01b0\u1ee1ng T\u00f3c Miseen Scene Perfect Serum",
+        "product_price": "195,000\u20ab",
+        "product_old_price": "215,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/tinh-chat-duong-toc.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/tinh-chat-duong-toc3.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/tinh-chat-duong-toc2.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/tinh-chat-duong-toc1.jpg"
+        ]
+    },
+    {
+        "product_name": "Serum D\u01b0\u1ee1ng T\u00f3c Vacosi Hair Care Tonic",
+        "product_price": "270,000\u20ab",
+        "product_old_price": "289,000\u20ab",
+        "product_discount": "- 7%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/duong-toc(2).jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/duong-toc-1(2).jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/duong-toc-2(2).jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/duong-toc(3).jpg"
+        ]
+    },
+    {
+        "product_name": "Tinh D\u1ea7u D\u01b0\u1ee1ng T\u00f3c Fanola Nuti Care",
+        "product_price": "280,000\u20ab",
+        "product_old_price": "301,000\u20ab",
+        "product_discount": "- 7%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/kem-u-toc-Fanola-Nuti-Care-Restructuring-Fluid-Crystals.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/kem-u-toc-Fanola-Nuti-Care-Restructuring-Fluid-Crystals-2.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/kem-u-toc-Fanola-Nuti-Care-Restructuring-Fluid-Crystals-1.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/kem-u-toc-Fanola-Nuti-Care-Restructuring-Fluid-Crystals(1).jpg"
+        ]
+    },
+    {
+        "product_name": "Tinh D\u1ea7u D\u01b0\u1ee1ng B\u00f3ng T\u00f3c CHI Silk Infusion 59ml",
+        "product_price": "290,000\u20ab",
+        "product_old_price": "308,000\u20ab",
+        "product_discount": "- 6%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/tinh-dau-duong-toc-suon-muot-chi-59ml-beauty-garden-1.jpg"
+        ]
+    },
+    {
+        "product_name": "Tinh Ch\u1ea5t D\u01b0\u1ee1ng T\u00f3c Silk Scarf Repair Hair",
+        "product_price": "140,000\u20ab",
+        "product_old_price": "159,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/gel-duong-toc-Silk-Scarf-Repair-Hair-Essence-beauty-garden-1.jpg"
+        ]
+    },
+    {
+        "product_name": "Tinh D\u1ea7u D\u01b0\u1ee1ng T\u00f3c Macadamia Healing Oil",
+        "product_price": "240,000\u20ab",
+        "product_old_price": "265,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.2",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/TINH-DAU-DUONG-TOC-Macadamia-Healing-Oil-Treatment.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/sss.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/vvv.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/yyy.jpg"
+        ]
+    },
+    {
+        "product_name": "Serum D\u01b0\u1ee1ng T\u00f3c CHI Silk Infusion",
+        "product_price": "450,000\u20ab",
+        "product_old_price": "468,000\u20ab",
+        "product_discount": "- 4%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Serum-Duong-Toc-Chi-Silk-Infusion.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/Serum-Duong-Toc-Chi-Silk-Infusion-ava.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/Serum-Duong-Toc-Chi-Silk-Infusion-ava2.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/Serum-Duong-Toc-Chi-Silk-Infusion-ava1.jpg"
+        ]
+    },
+    {
+        "product_name": "Tinh D\u1ea7u D\u01b0\u1ee1ng T\u00f3c Ogx Renewing-Argan Oil",
+        "product_price": "230,000\u20ab",
+        "product_old_price": "256,000\u20ab",
+        "product_discount": "- 11%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/dau-duong-toc-ogx.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/dau-duong-toc-ogx1.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/dau-duong-toc-ogx2.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/dau-duong-toc-ogx3.jpg"
+        ]
+    },
+    {
+        "product_name": "Tinh D\u1ea7u D\u01b0\u1ee1ng T\u00f3c L'Oreal Elvital Extraordinary Oil",
+        "product_price": "110,000\u20ab",
+        "product_old_price": "132,000\u20ab",
+        "product_discount": "- 20%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/tinh-dau-duong-toc-LOreal-Elvital-Extraordinary-Oil-beauty-garden-1.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u01b0\u1ee1ng T\u00f3c Renewing Argan Oil Of Morocco",
+        "product_price": "220,000\u20ab",
+        "product_old_price": "247,000\u20ab",
+        "product_discount": "- 11%",
+        "product_rating": "4.2",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/s.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/z.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/duong-toc-3.jpg"
+        ]
+    },
+    {
+        "product_name": "Kem \u1ee6 T\u00f3c Nutricare Fanola",
+        "product_price": "153,111\u20ab",
+        "product_old_price": "171,111\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Nutricare-Fanola-Maschera-Ristrutturante-500ml.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/Nutricare-Fanola-Maschera-Ristrutturante-500ml-3.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/Nutricare-Fanola-Maschera-Ristrutturante-500ml-1.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/Nutricare-Fanola-Maschera-Ristrutturante-500ml-2.jpg"
+        ]
+    },
+    {
+        "product_name": "X\u1ecbt D\u01b0\u1ee1ng T\u00f3c Innisfree Camellia Essential Hair Mist",
+        "product_price": "195,000\u20ab",
+        "product_old_price": "216,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/xit-duong-toc-Innisfree-Camellia-Essential-Hair-Mist-Beauty-Garden-1.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/xit-duong-toc-Innisfree-Camellia-Essential-Hair-Mist-Beauty-Garden-4.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/xit-duong-toc-Innisfree-Camellia-Essential-Hair-Mist-Beauty-Garden-3.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/xit-duong-toc-Innisfree-Camellia-Essential-Hair-Mist-Beauty-Garden-2.jpg"
+        ]
+    },
+    {
+        "product_name": "Tinh D\u1ea7u D\u01b0\u1ee1ng B\u00f3ng T\u00f3c CHI Silk Infusion 15ml",
+        "product_price": "65,077\u20ab",
+        "product_old_price": "86,077\u20ab",
+        "product_discount": "- 25%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/tinh-dau-duong-bong-toc-chi-silk-infusion-15ml-beauty-garden-1.jpg"
+        ]
+    },
+    {
+        "product_name": "Tinh Ch\u1ea5t D\u01b0\u1ee1ng T\u00f3c Essential Damage Care",
+        "product_price": "175,000\u20ab",
+        "product_old_price": "197,000\u20ab",
+        "product_discount": "- 12%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/tinh-chat-duong-toc-the-face-shop-Essential-Damage-Care-Hair-Serum-beauty-garden-1.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/tinh-chat-duong-toc-the-face-shop-Essential-Damage-Care-Hair-Serum-beauty-garden-2.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/tinh-chat-duong-toc-the-face-shop-Essential-Damage-Care-Hair-Serum-beauty-garden-3.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/tinh-chat-duong-toc-the-face-shop-Essential-Damage-Care-Hair-Serum-beauty-garden-4.jpg"
+        ]
+    },
+    {
+        "product_name": "Serum D\u01b0\u1ee1ng T\u00f3c Camellia Essential Hair Oil Serum",
+        "product_price": "210,000\u20ab",
+        "product_old_price": "229,000\u20ab",
+        "product_discount": "- 9%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/serum-duong-toc-hoa-tra-camellia-essential-hair-oil-serum-beauty-garden-1.jpg"
+        ]
+    },
+    {
+        "product_name": "Tinh D\u1ea7u D\u01b0\u1ee1ng Macadamia Healing Oil Treatment",
+        "product_price": "138,528\u20ab",
+        "product_old_price": "162,528\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "serum-duong-toc",
+            "cat_text": "Serum d\u01b0\u1ee1ng t\u00f3c",
+            "parent_cat": {
+                "cat_id": "cham-soc-toc",
+                "cat_text": "Ch\u0103m S\u00f3c T\u00f3c"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/tinh-dau-duong-macadamia-healing-oil-treatment-beauty-garden-1.jpg"
+        ]
     }
 ]

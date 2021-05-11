@@ -3954,5 +3954,475 @@
         "product_img_urls": [
             "https://adminbeauty.hvnet.vn/Upload/Files/Avatar-SP-Web(1)(1)-Recovered-Recovered(8).jpg"
         ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t Derladie With Hazel Cleansing Gel",
+        "product_price": "270,000\u20ab",
+        "product_old_price": "297,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/srm-derladie-14022020041514.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t Some By Mi Snail Truecica",
+        "product_price": "230,000\u20ab",
+        "product_old_price": "256,000\u20ab",
+        "product_discount": "- 11%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/suaruamat-13122019015529.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t Cetaphil Gentle Skin Cleanser",
+        "product_price": "80,000\u20ab",
+        "product_old_price": "100,000\u20ab",
+        "product_discount": "- 20%",
+        "product_rating": "4.2",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/xetaphil-30032020051704.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t Neutrogena Oil-Free Acne Wash",
+        "product_price": "226,000\u20ab",
+        "product_old_price": "283,000\u20ab",
+        "product_discount": "- 9%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/very-sexy-night-recovered-recovered-recovered-recovered-recovered-recovered-recovered-05122019013457.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t Bergamo Foaming Cleanser",
+        "product_price": "180,000\u20ab",
+        "product_old_price": "203,000\u20ab",
+        "product_discount": "- 12%",
+        "product_rating": "4.5",
+        "product_colors": [
+            " rgb(231, 230, 64)",
+            " rgb(228, 54, 54)",
+            " rgb(211, 226, 162)",
+            " rgb(153, 223, 113)",
+            " rgb(195, 187, 187)"
+        ],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-1-recovered-recovered-12032020042357.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t Vichy Normaderm Phytosolution Inten",
+        "product_price": "100,000\u20ab",
+        "product_old_price": "120,000\u20ab",
+        "product_discount": "- 17%",
+        "product_rating": "4.3",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-1-recovered-recovered-recovered-recovered-recovered-recovered-28022020024026.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/492793ca064d2fe1e39cf2d90c0cc0a7-28022020024125.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t Dermal Black Charcoal Deep Cleanser",
+        "product_price": "110,000\u20ab",
+        "product_old_price": "130,000\u20ab",
+        "product_discount": "- 16%",
+        "product_rating": "4.1",
+        "product_colors": [
+            " rgb(196, 66, 66)",
+            " rgb(91, 84, 84)",
+            " rgb(40, 137, 37)"
+        ],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/srm-black-20122019032739.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/srm-hongdn2-20122019032921.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/srm-xnah-la-20122019032925.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t Innisfree Bija Trouble Facial Foam",
+        "product_price": "90,000\u20ab",
+        "product_old_price": "112,000\u20ab",
+        "product_discount": "- 20%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/cica-30112019093238.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t Elf Daily Face Cleanser",
+        "product_price": "140,000\u20ab",
+        "product_old_price": "158,000\u20ab",
+        "product_discount": "- 12%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/daily-face-cleanser-22042020102218.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t 3 Trong 1 The Body Shop Tea Tree",
+        "product_price": "499,000\u20ab",
+        "product_old_price": "517,000\u20ab",
+        "product_discount": "- 4%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/srm%203in1.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/62a7d396cfff3321e164b3b11d87a645-27022020045128.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t Ecosy Deep Clean Foam",
+        "product_price": "80,000\u20ab",
+        "product_old_price": "101,000\u20ab",
+        "product_discount": "- 21%",
+        "product_rating": "4.2",
+        "product_colors": [
+            " rgb(223, 84, 46)",
+            " rgb(10, 149, 21)",
+            " rgb(226, 51, 77)",
+            " rgb(65, 223, 46)",
+            " rgb(21, 22, 20)"
+        ],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/hinh-nen-08022020040659.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t Vichy Anti Imperfection",
+        "product_price": "350,000\u20ab",
+        "product_old_price": "369,000\u20ab",
+        "product_discount": "- 6%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-recovered-04042020093534.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/sua-rua-mat-vichy-giup-ngan-ngua-mun-se-lo-chan-long-125ml-01_0ff966be91d24574ac683e91b7fc0288_master-04042020093550.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/00007900-sua-rua-mat-tao-bot-ngan-ngua-mun-vichy-1881-5b02_large-04042020093941.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/1769215_l-04042020093949.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t Cerave Hydrating Facial Cleanser",
+        "product_price": "360,000\u20ab",
+        "product_old_price": "385,000\u20ab",
+        "product_discount": "- 7%",
+        "product_rating": "4.2",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-1-recovered-recovered-recovered-13032020105956.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/unnamed-13032020111416.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t Innisfree Brightening Pore Facial",
+        "product_price": "220,000\u20ab",
+        "product_old_price": "247,000\u20ab",
+        "product_discount": "- 11%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-1-recovered-recovered-recovered-recovered-recovered-27022020104720.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t The Face Shop Jeju Volcanic",
+        "product_price": "150,000\u20ab",
+        "product_old_price": "172,000\u20ab",
+        "product_discount": "- 13%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-recovered-recovered-recovered-recovered-recovered-recovered-recovered-recovered-13052020024644.jpg"
+        ]
+    },
+    null,
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t Cosrx Salicylic Acid",
+        "product_price": "210,000\u20ab",
+        "product_old_price": "212,000\u20ab",
+        "product_discount": "- 1%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-recovered-recovered-recovered-recovered-recovered-recovered-recovered-recovered-13052020113115.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/ff6c0f35783dd29b005a838a330dd524jpg_720x720q80jpg_-13052020113507.webp",
+            "https://adminbeauty.hvnet.vn//Upload/files/1288610946g_400-w-st_g-1-13052020113514.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t 3W Clinic Clean Up Cleansing Foam",
+        "product_price": "80,000\u20ab",
+        "product_old_price": "105,000\u20ab",
+        "product_discount": "- 24%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-13052020105825.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t Innisfree Jeju Pomegranate",
+        "product_price": "150,000\u20ab",
+        "product_old_price": "172,000\u20ab",
+        "product_discount": "- 13%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/luu-nho-80ml-07052020112716.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t Clarista Charcoal 2In1 Facial Foam",
+        "product_price": "110,000\u20ab",
+        "product_old_price": "133,000\u20ab",
+        "product_discount": "- 18%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-recovered-recovered-recovered-recovered-21042020022056.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t Klairs Rich Moist Foaming Cleanser",
+        "product_price": "260,000\u20ab",
+        "product_old_price": "286,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-recovered-recovered-recovered-20042020110543.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t Cerave Foaming Facial Cleanser 237m",
+        "product_price": "360,000\u20ab",
+        "product_old_price": "385,000\u20ab",
+        "product_discount": "- 7%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web1-recovered-recovered-recovered-13032020112248.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t Skin1004 Madagascar Centella",
+        "product_price": "260,000\u20ab",
+        "product_old_price": "278,000\u20ab",
+        "product_discount": "- 7%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/sua-rua-mat-20022020112752.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/64322336_2360357060949479_1568245817087623168_o-20022020113636.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/sua-rua-mat-madagasca-1-20022020113645.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/71151945_142761916992643_1166676759431439442_n-20022020113702.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/71513161_399183404291554_3507988059792068009_n-20022020113707.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa R\u1eeda M\u1eb7t Laneige White Dew Milky Cleanser",
+        "product_price": "350,000\u20ab",
+        "product_old_price": "377,000\u20ab",
+        "product_discount": "- 8%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "sua-rua-mat",
+            "cat_text": "S\u1eefa r\u1eeda m\u1eb7t",
+            "parent_cat": {
+                "cat_id": "cham-soc-da",
+                "cat_text": "Ch\u0103m S\u00f3c Da"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/srm-white-dew-02122019103415.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/914e95d579d5a34be19edb71afe82c8a-02122019103429.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2_7555a00c9f0549b09aac763857f8e589_grande-02122019103436.jpg"
+        ]
     }
 ]

@@ -11969,5 +11969,1125 @@
             "https://adminbeauty.hvnet.vn//Upload/files/012044038840-08122020102932.jpg",
             "https://adminbeauty.hvnet.vn//Upload/files/69e44d4d-dd83-4f94-a32f-177f4b6ccc52_1cb5905880f0af18c95c6fa3cca568ceb-08122020103009.jpeg"
         ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa N\u1eef Venus Global Beauty Laura Ann\u00e9",
+        "product_price": "180,000\u20ab",
+        "product_old_price": "206,000\u20ab",
+        "product_discount": "- 13%",
+        "product_rating": "4.5",
+        "product_colors": [
+            " rgb(238, 21, 21)",
+            " rgb(220, 214, 15)",
+            " rgb(47, 44, 44)"
+        ],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/very-sexy-night-recovered-recovered-recovered-22112019111005.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa N\u1eef Venus Global Beauty Laura Ann\u00e9",
+        "product_price": "240,000\u20ab",
+        "product_old_price": "259,000\u20ab",
+        "product_discount": "- 8%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/dynamic-04122019094735.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Venus Global Beauty Laura Ann\u00e9 DIAMOND",
+        "product_price": "390,000\u20ab",
+        "product_old_price": "474,000\u20ab",
+        "product_discount": "- 18%",
+        "product_rating": "4.5",
+        "product_colors": [
+            " rgb(206, 191, 191)",
+            " rgb(27, 22, 22)"
+        ],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/diamond-22112019020140.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/5cf5ede9dbb85f93098e3a62511df8cf-22112019020258.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/afa213f429be69de34847671045de56b-22112019020301.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa N\u1eef Pinker Bell Korea Perfume",
+        "product_price": "260,000\u20ab",
+        "product_old_price": "280,000\u20ab",
+        "product_discount": "- 8%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Pinker-Bell-Korea.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Narciso Rodriguez Purse Spray For Her",
+        "product_price": "350,000\u20ab",
+        "product_old_price": "376,000\u20ab",
+        "product_discount": "- 7%",
+        "product_rating": "4.2",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-1-recovered-recovered-recovered-recovered-recovered-recovered-29022020121923.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Lanc\u00f4me Miracle L'Eau De Parfum",
+        "product_price": "280,000\u20ab",
+        "product_old_price": "306,000\u20ab",
+        "product_discount": "- 9%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/lancome1-01112019084603.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa D\u1ea1ng L\u0103n Victoria'S Secret",
+        "product_price": "280,000\u20ab",
+        "product_old_price": "289,000\u20ab",
+        "product_discount": "- 4%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/heavenly-29102019091727.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/very-sexy-9-29102019091739.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/nuoc-hoa-lan-victoria-secret-ava-29102019091745.png",
+            "https://adminbeauty.hvnet.vn//Upload/files/rose-29102019092237.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Gucci Bloom Eau De Parfum 2017",
+        "product_price": "380,000\u20ab",
+        "product_old_price": "401,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/gucci-bloom-2-14102019011834.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Gucci Bloom Eau De Parfum 2018",
+        "product_price": "350,000\u20ab",
+        "product_old_price": "374,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.2",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/gucci-aqua-14102019114023.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Berdoues 1902 Eau De Toilette",
+        "product_price": "900,000\u20ab",
+        "product_old_price": "925,000\u20ab",
+        "product_discount": "- 3%",
+        "product_rating": "4.1",
+        "product_colors": [
+            " rgb(196, 53, 11)",
+            " rgb(231, 231, 48)",
+            " rgb(48, 201, 231)",
+            " rgb(201, 18, 65)",
+            " rgb(54, 147, 56)",
+            " rgb(47, 186, 177)"
+        ],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-1-recovered-recovered-recovered-recovered-03082019091619.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Suddenly Mamade Glamour Eau De Parfum",
+        "product_price": "180,000\u20ab",
+        "product_old_price": "199,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a00-22052019110739.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a0-22052019110743.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa D\u1ea1ng L\u0103n Victoria'S Secret Eau De",
+        "product_price": "270,000\u20ab",
+        "product_old_price": "292,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.2",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a2-22052019092513.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a3-22052019092519.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a1-22052019092522.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa BVLGari Eau De Parfum Jasmin Noir 5ml",
+        "product_price": "150,000\u20ab",
+        "product_old_price": "173,000\u20ab",
+        "product_discount": "- 14%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a1-20042019105057.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-20042019105102.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a5-20042019105107.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Marc Jacobs Fragrances Eau De Toilette",
+        "product_price": "220,000\u20ab",
+        "product_old_price": "247,000\u20ab",
+        "product_discount": "- 11%",
+        "product_rating": "4.2",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a0-02042019095221.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a3-02042019095229.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a1-02042019095231.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-02042019095234.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a4-02042019095257.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Kenzo Flower In The Air Eau De Parfum",
+        "product_price": "195,000\u20ab",
+        "product_old_price": "214,000\u20ab",
+        "product_discount": "- 9%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a4-23032019094057.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a1-23032019094108.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a3-23032019094114.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a6-23032019094122.jpg"
+        ]
+    },
+    {
+        "product_name": "X\u1ecbt Th\u01a1m Victoria'S Secret Fragrance Mist 250ml",
+        "product_price": "310,000\u20ab",
+        "product_old_price": "335,000\u20ab",
+        "product_discount": "- 14%",
+        "product_rating": "4.1",
+        "product_colors": [
+            " rgb(225, 106, 106)",
+            " rgb(85, 90, 209)",
+            " rgb(75, 35, 35)",
+            " rgb(226, 60, 60)",
+            " rgb(164, 30, 116)",
+            " rgb(24, 146, 163)",
+            " rgb(179, 37, 191)",
+            " rgb(27, 177, 81)",
+            " rgb(38, 215, 198)",
+            " rgb(102, 23, 23)",
+            " rgb(217, 125, 73)",
+            " rgb(227, 220, 44)",
+            " rgb(214, 111, 97)",
+            " rgb(177, 94, 179)",
+            " rgb(244, 208, 208)",
+            " rgba(167, 245, 183, 0.54)",
+            " rgb(111, 130, 222)",
+            " rgb(226, 134, 134)",
+            " rgb(113, 62, 62)",
+            " rgb(243, 161, 224)",
+            " rgb(240, 58, 58)",
+            " rgb(173, 155, 56)",
+            " rgb(188, 85, 85)",
+            " rgb(89, 34, 34)",
+            " rgb(234, 190, 143)",
+            " rgb(250, 135, 135)",
+            " rgb(252, 79, 174)",
+            " rgb(250, 78, 78)",
+            " rgb(242, 59, 136)",
+            " rgb(27, 18, 18)",
+            " rgb(105, 191, 243)",
+            " rgb(244, 237, 237)",
+            " rgb(236, 125, 189)",
+            " rgb(201, 126, 189)",
+            " rgb(29, 192, 165)",
+            " rgb(224, 59, 59)",
+            " rgb(183, 221, 95)",
+            " rgb(254, 218, 31)",
+            " rgb(238, 131, 112)",
+            " rgb(185, 54, 54)",
+            " rgb(151, 47, 47)",
+            " rgb(142, 212, 90)",
+            " rgb(225, 238, 95)"
+        ],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Victoria-s-Secret-Fragrance-Mist-250ml.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a4-11032019034739.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a6-11032019034743.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a1-22032019115029.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-22032019115305.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a4-20042019084536.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/victorias-secret-new-2019-limited-edition-sweet-fix-11092019032713.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/victorias-secret-body-splash-todas-las-fragancias-d_nq_np_610046-mla30474496760_052019-f-11092019032721.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Mini Marc Jacobs Daisy Dream Eau De",
+        "product_price": "220,000\u20ab",
+        "product_old_price": "245,000\u20ab",
+        "product_discount": "- 11%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a1-28022019111644.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-28022019111651.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Mini Elizabeth Arden Red Door 5ml",
+        "product_price": "180,000\u20ab",
+        "product_old_price": "206,000\u20ab",
+        "product_discount": "- 13%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a2-26022019024231.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a3-26022019024236.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a4-26022019024539.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Victoria'S Secret Bomshell Summer Eau",
+        "product_price": "700,000\u20ab",
+        "product_old_price": "722,000\u20ab",
+        "product_discount": "- 0%",
+        "product_rating": "4.3",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a1-23022019110819.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-23022019110823.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a3-23022019110826.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a5-23022019110831.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Victoria'S Secret Tease Rebel Eau De",
+        "product_price": "700,000\u20ab",
+        "product_old_price": "726,000\u20ab",
+        "product_discount": "- 0%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a1-23022019103450.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-23022019103456.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a3-23022019103457.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a4-23022019103501.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Victoria'S Secret Love Eau De Parfum",
+        "product_price": "700,000\u20ab",
+        "product_old_price": "724,000\u20ab",
+        "product_discount": "- 0%",
+        "product_rating": "4.3",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a2-22022019013013.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a1-22022019013018.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a3-22022019013023.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Bergamo Perfume For Women 30ml",
+        "product_price": "260,000\u20ab",
+        "product_old_price": "282,000\u20ab",
+        "product_discount": "- 8%",
+        "product_rating": "4.5",
+        "product_colors": [
+            " rgb(233, 219, 84)",
+            " rgb(95, 166, 235)",
+            " rgb(230, 86, 171)",
+            " rgb(188, 84, 233)"
+        ],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a1-04012019032009.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-04012019032015.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a4-04012019032022.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa V\u00f9ng K\u00edn Milky Dress Lingerie Virgin",
+        "product_price": "160,000\u20ab",
+        "product_old_price": "181,000\u20ab",
+        "product_discount": "- 12%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a1-04012019025434.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a5-04012019025805.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a6-04012019025849.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa N\u1eef Venus Global Beauty Parisian",
+        "product_price": "490,000\u20ab",
+        "product_old_price": "547,000\u20ab",
+        "product_discount": "- 11%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/chic-ne-27112019015050.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/lux-ne-27112019015103.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/lux123456-27112019015749.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa N\u1eef Venus Global Beauty Laura Ann\u00e9",
+        "product_price": "180,000\u20ab",
+        "product_old_price": "206,000\u20ab",
+        "product_discount": "- 13%",
+        "product_rating": "4.5",
+        "product_colors": [
+            " rgb(238, 21, 21)",
+            " rgb(220, 214, 15)",
+            " rgb(47, 44, 44)"
+        ],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/very-sexy-night-recovered-recovered-recovered-22112019111005.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa N\u1eef Venus Global Beauty Laura Ann\u00e9",
+        "product_price": "240,000\u20ab",
+        "product_old_price": "259,000\u20ab",
+        "product_discount": "- 8%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/dynamic-04122019094735.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Venus Global Beauty Laura Ann\u00e9 DIAMOND",
+        "product_price": "390,000\u20ab",
+        "product_old_price": "474,000\u20ab",
+        "product_discount": "- 18%",
+        "product_rating": "4.5",
+        "product_colors": [
+            " rgb(206, 191, 191)",
+            " rgb(27, 22, 22)"
+        ],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/diamond-22112019020140.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/5cf5ede9dbb85f93098e3a62511df8cf-22112019020258.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/afa213f429be69de34847671045de56b-22112019020301.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa N\u1eef Pinker Bell Korea Perfume",
+        "product_price": "260,000\u20ab",
+        "product_old_price": "280,000\u20ab",
+        "product_discount": "- 8%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Pinker-Bell-Korea.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Narciso Rodriguez Purse Spray For Her",
+        "product_price": "350,000\u20ab",
+        "product_old_price": "376,000\u20ab",
+        "product_discount": "- 7%",
+        "product_rating": "4.2",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-1-recovered-recovered-recovered-recovered-recovered-recovered-29022020121923.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Lanc\u00f4me Miracle L'Eau De Parfum",
+        "product_price": "280,000\u20ab",
+        "product_old_price": "306,000\u20ab",
+        "product_discount": "- 9%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/lancome1-01112019084603.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa D\u1ea1ng L\u0103n Victoria'S Secret",
+        "product_price": "280,000\u20ab",
+        "product_old_price": "289,000\u20ab",
+        "product_discount": "- 4%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/heavenly-29102019091727.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/very-sexy-9-29102019091739.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/nuoc-hoa-lan-victoria-secret-ava-29102019091745.png",
+            "https://adminbeauty.hvnet.vn//Upload/files/rose-29102019092237.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Gucci Bloom Eau De Parfum 2017",
+        "product_price": "380,000\u20ab",
+        "product_old_price": "401,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/gucci-bloom-2-14102019011834.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Gucci Bloom Eau De Parfum 2018",
+        "product_price": "350,000\u20ab",
+        "product_old_price": "374,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.2",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/gucci-aqua-14102019114023.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Berdoues 1902 Eau De Toilette",
+        "product_price": "900,000\u20ab",
+        "product_old_price": "925,000\u20ab",
+        "product_discount": "- 3%",
+        "product_rating": "4.1",
+        "product_colors": [
+            " rgb(196, 53, 11)",
+            " rgb(231, 231, 48)",
+            " rgb(48, 201, 231)",
+            " rgb(201, 18, 65)",
+            " rgb(54, 147, 56)",
+            " rgb(47, 186, 177)"
+        ],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-1-recovered-recovered-recovered-recovered-03082019091619.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Suddenly Mamade Glamour Eau De Parfum",
+        "product_price": "180,000\u20ab",
+        "product_old_price": "199,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a00-22052019110739.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a0-22052019110743.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa D\u1ea1ng L\u0103n Victoria'S Secret Eau De",
+        "product_price": "270,000\u20ab",
+        "product_old_price": "292,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.2",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a2-22052019092513.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a3-22052019092519.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a1-22052019092522.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa BVLGari Eau De Parfum Jasmin Noir 5ml",
+        "product_price": "150,000\u20ab",
+        "product_old_price": "173,000\u20ab",
+        "product_discount": "- 14%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a1-20042019105057.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-20042019105102.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a5-20042019105107.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Marc Jacobs Fragrances Eau De Toilette",
+        "product_price": "220,000\u20ab",
+        "product_old_price": "247,000\u20ab",
+        "product_discount": "- 11%",
+        "product_rating": "4.2",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a0-02042019095221.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a3-02042019095229.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a1-02042019095231.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-02042019095234.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a4-02042019095257.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Kenzo Flower In The Air Eau De Parfum",
+        "product_price": "195,000\u20ab",
+        "product_old_price": "214,000\u20ab",
+        "product_discount": "- 9%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a4-23032019094057.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a1-23032019094108.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a3-23032019094114.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a6-23032019094122.jpg"
+        ]
+    },
+    {
+        "product_name": "X\u1ecbt Th\u01a1m Victoria'S Secret Fragrance Mist 250ml",
+        "product_price": "310,000\u20ab",
+        "product_old_price": "335,000\u20ab",
+        "product_discount": "- 14%",
+        "product_rating": "4.1",
+        "product_colors": [
+            " rgb(225, 106, 106)",
+            " rgb(85, 90, 209)",
+            " rgb(75, 35, 35)",
+            " rgb(226, 60, 60)",
+            " rgb(164, 30, 116)",
+            " rgb(24, 146, 163)",
+            " rgb(179, 37, 191)",
+            " rgb(27, 177, 81)",
+            " rgb(38, 215, 198)",
+            " rgb(102, 23, 23)",
+            " rgb(217, 125, 73)",
+            " rgb(227, 220, 44)",
+            " rgb(214, 111, 97)",
+            " rgb(177, 94, 179)",
+            " rgb(244, 208, 208)",
+            " rgba(167, 245, 183, 0.54)",
+            " rgb(111, 130, 222)",
+            " rgb(226, 134, 134)",
+            " rgb(113, 62, 62)",
+            " rgb(243, 161, 224)",
+            " rgb(240, 58, 58)",
+            " rgb(173, 155, 56)",
+            " rgb(188, 85, 85)",
+            " rgb(89, 34, 34)",
+            " rgb(234, 190, 143)",
+            " rgb(250, 135, 135)",
+            " rgb(252, 79, 174)",
+            " rgb(250, 78, 78)",
+            " rgb(242, 59, 136)",
+            " rgb(27, 18, 18)",
+            " rgb(105, 191, 243)",
+            " rgb(244, 237, 237)",
+            " rgb(236, 125, 189)",
+            " rgb(201, 126, 189)",
+            " rgb(29, 192, 165)",
+            " rgb(224, 59, 59)",
+            " rgb(183, 221, 95)",
+            " rgb(254, 218, 31)",
+            " rgb(238, 131, 112)",
+            " rgb(185, 54, 54)",
+            " rgb(151, 47, 47)",
+            " rgb(142, 212, 90)",
+            " rgb(225, 238, 95)"
+        ],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Victoria-s-Secret-Fragrance-Mist-250ml.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a4-11032019034739.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a6-11032019034743.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a1-22032019115029.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-22032019115305.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a4-20042019084536.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/victorias-secret-new-2019-limited-edition-sweet-fix-11092019032713.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/victorias-secret-body-splash-todas-las-fragancias-d_nq_np_610046-mla30474496760_052019-f-11092019032721.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Mini Marc Jacobs Daisy Dream Eau De",
+        "product_price": "220,000\u20ab",
+        "product_old_price": "245,000\u20ab",
+        "product_discount": "- 11%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a1-28022019111644.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-28022019111651.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Mini Elizabeth Arden Red Door 5ml",
+        "product_price": "180,000\u20ab",
+        "product_old_price": "206,000\u20ab",
+        "product_discount": "- 13%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a2-26022019024231.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a3-26022019024236.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a4-26022019024539.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Victoria'S Secret Bomshell Summer Eau",
+        "product_price": "700,000\u20ab",
+        "product_old_price": "722,000\u20ab",
+        "product_discount": "- 0%",
+        "product_rating": "4.3",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a1-23022019110819.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-23022019110823.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a3-23022019110826.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a5-23022019110831.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Victoria'S Secret Tease Rebel Eau De",
+        "product_price": "700,000\u20ab",
+        "product_old_price": "726,000\u20ab",
+        "product_discount": "- 0%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a1-23022019103450.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-23022019103456.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a3-23022019103457.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a4-23022019103501.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Victoria'S Secret Love Eau De Parfum",
+        "product_price": "700,000\u20ab",
+        "product_old_price": "724,000\u20ab",
+        "product_discount": "- 0%",
+        "product_rating": "4.3",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a2-22022019013013.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a1-22022019013018.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a3-22022019013023.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa Bergamo Perfume For Women 30ml",
+        "product_price": "260,000\u20ab",
+        "product_old_price": "282,000\u20ab",
+        "product_discount": "- 8%",
+        "product_rating": "4.5",
+        "product_colors": [
+            " rgb(233, 219, 84)",
+            " rgb(95, 166, 235)",
+            " rgb(230, 86, 171)",
+            " rgb(188, 84, 233)"
+        ],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a1-04012019032009.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-04012019032015.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a4-04012019032022.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa V\u00f9ng K\u00edn Milky Dress Lingerie Virgin",
+        "product_price": "160,000\u20ab",
+        "product_old_price": "181,000\u20ab",
+        "product_discount": "- 12%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a1-04012019025434.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a5-04012019025805.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a6-04012019025849.jpg"
+        ]
+    },
+    {
+        "product_name": "N\u01b0\u1edbc Hoa N\u1eef Venus Global Beauty Parisian",
+        "product_price": "490,000\u20ab",
+        "product_old_price": "547,000\u20ab",
+        "product_discount": "- 11%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "nuoc-hoa-nu",
+            "cat_text": "N\u01b0\u1edbc hoa n\u1eef",
+            "parent_cat": {
+                "cat_id": "nuoc-hoa",
+                "cat_text": "N\u01b0\u1edbc Hoa"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/chic-ne-27112019015050.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/lux-ne-27112019015103.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/lux123456-27112019015749.jpg"
+        ]
     }
 ]

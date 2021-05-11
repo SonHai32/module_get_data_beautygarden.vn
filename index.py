@@ -3,7 +3,7 @@ import time
 import json
 driver = webdriver.Chrome()
 
-driver.get('https://beautygarden.vn/danh-muc/sua-rua-mat.html?page=2')
+driver.get('https://beautygarden.vn/danh-muc/dau-goi.html?page=2')
 
 time.sleep(2)
 driver.find_element_by_xpath('/html/body/div[4]/div/div/div/div/div/button[1]').click()
@@ -25,11 +25,11 @@ def get_data_from_page(page_url):
 
     try:
         prd_cat = {
-            "cat_id": "sua-rua-mat", 
-            "cat_text": "Sữa rửa mặt", 
+            "cat_id": "dau-goi", 
+            "cat_text": "Dầu gội", 
             "parent_cat": {
-                "cat_id": "cham-soc-da", 
-                "cat_text": "Chăm Sóc Da"}}
+                "cat_id": "cham-soc-toc", 
+                "cat_text": "Chăm Sóc Tóc"}}
         prd_name = driver.find_element_by_class_name('title-Product').text
         prd_price = driver.find_element_by_class_name('price-drop').find_elements_by_tag_name('span')[0].text
         prd_old_price = driver.find_element_by_class_name('price-vince').find_elements_by_tag_name('span')[0].text

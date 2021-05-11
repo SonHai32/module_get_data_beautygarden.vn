@@ -9963,5 +9963,969 @@
         "product_img_urls": [
             "https://adminbeauty.hvnet.vn/Upload/Files/tinh-dau-duong-macadamia-healing-oil-treatment-beauty-garden-1.jpg"
         ]
+    },
+    {
+        "product_name": "Kem D\u01b0\u1ee1ng Th\u1ec3 Vaseline Concentrated Whitening",
+        "product_price": "195,000\u20ab",
+        "product_old_price": "219,000\u20ab",
+        "product_discount": "- 11%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Vaseline-Concentrated.jpg"
+        ]
+    },
+    {
+        "product_name": "Gel D\u01b0\u1ee1ng Miin Cosmetics Aloe Vera 98%",
+        "product_price": "70,000\u20ab",
+        "product_old_price": "93,000\u20ab",
+        "product_discount": "- 25%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Avatar-SP-Web(1)(1)-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered(1).jpg"
+        ]
+    },
+    {
+        "product_name": "Kem \u1ee6 Tr\u1eafng To\u00e0n Th\u00e2n Mersenne Beaute Tone-Up",
+        "product_price": "180,000\u20ab",
+        "product_old_price": "200,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/tone-up-12022020030935.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/tone-up5-12022020031506.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/tone-up6-12022020031517.jpg"
+        ]
+    },
+    {
+        "product_name": "Gel Tan M\u1ee1 Missha Hot Burning Body Gel",
+        "product_price": "140,000\u20ab",
+        "product_old_price": "171,000\u20ab",
+        "product_discount": "- 19%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/hot-burning-21102019103517.jpg"
+        ]
+    },
+    {
+        "product_name": "X\u1ecbt Ng\u1eeba M\u1ee5n V\u00e0 Th\u00e2m M\u1ee5n C\u01a1 Th\u1ec3 Angel'S Liquid",
+        "product_price": "390,000\u20ab",
+        "product_old_price": "410,000\u20ab",
+        "product_discount": "- 5%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Calming-Body-Mist-.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/xit-giam-mun-lung-angel-s-liquid-duong-sang-co-the-150ml-12032021102318.jpg"
+        ]
+    },
+    {
+        "product_name": "X\u1ecbt D\u01b0\u1ee1ng Tr\u1eafng White Conc Vitamin C",
+        "product_price": "250,000\u20ab",
+        "product_old_price": "274,000\u20ab",
+        "product_discount": "- 9%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/x%E1%BB%8Bt-whiteconc-web.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/xit-duong-sang-da-toan-than-white-conc-body-lotion-245ml-5-07092020022417.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/o1cn01wsi2dt1ipzbwoaqd5___61944406_fb605f3826f0423e940c6f04ad11e851_large-07092020022421.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa D\u01b0\u1ee1ng Th\u1ec3 Vaseline Concentrated Whitening",
+        "product_price": "130,000\u20ab",
+        "product_old_price": "149,000\u20ab",
+        "product_discount": "- 13%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Concentrated-Whitening-200ml.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa D\u01b0\u1ee1ng Th\u1ec3 Nivea Extra White Radiant&Smooth",
+        "product_price": "140,000\u20ab",
+        "product_old_price": "164,000\u20ab",
+        "product_discount": "- 15%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/extra-white.jpg"
+        ]
+    },
+    {
+        "product_name": "Kem D\u01b0\u1ee1ng Da Vaseline Super Vitamin 380ml",
+        "product_price": "190,000\u20ab",
+        "product_old_price": "208,000\u20ab",
+        "product_discount": "- 9%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Avatar-SP-Web(1)(1)-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-(1).jpg"
+        ]
+    },
+    {
+        "product_name": "Tinh Ch\u1ea5t D\u01b0\u1ee1ng Tr\u1eafng Kh\u1eed M\u00f9i Vaseline",
+        "product_price": "90,000\u20ab",
+        "product_old_price": "116,000\u20ab",
+        "product_discount": "- 23%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Avatar-SP-Web(1)(1)-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered(4).jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa D\u01b0\u1ee1ng Th\u1ec3 Victoria'S Secret Amber Romance",
+        "product_price": "190,000\u20ab",
+        "product_old_price": "210,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Amber-75ml.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa D\u01b0\u1ee1ng Th\u1ec3 Vaseline UV Lightening",
+        "product_price": "140,000\u20ab",
+        "product_old_price": "158,000\u20ab",
+        "product_discount": "- 12%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-recovered-recovered-recovered-recovered-23052020110155.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa D\u01b0\u1ee1ng Th\u1ec3 Cetaphil Baby Daily Lotion",
+        "product_price": "250,000\u20ab",
+        "product_old_price": "277,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/babe-lotion-09052020114509.jpg"
+        ]
+    },
+    {
+        "product_name": "Mi\u1ebfng D\u00e1n \u0110a N\u0103ng Beaunon Body Pack",
+        "product_price": "160,000\u20ab",
+        "product_old_price": "184,000\u20ab",
+        "product_discount": "- 14%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/beaunon-15042020075142.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa T\u1eafm S\u00e1ng Da Milk Care Hydra",
+        "product_price": "90,000\u20ab",
+        "product_old_price": "114,000\u20ab",
+        "product_discount": "- 22%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/sua-duong-the-01102019012446.jpg"
+        ]
+    },
+    {
+        "product_name": "Gel D\u01b0\u1ee1ng Da To\u00e0n Th\u00e2n Vaseline Whitening Gel",
+        "product_price": "150,000\u20ab",
+        "product_old_price": "174,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-1-recovered-recovered-recovered-29082019092808.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/3-29082019092821.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/2(82).jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/2(83).jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/3-29082019100930.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa D\u01b0\u1ee1ng Th\u1ec3 Dugasi Horse Oil Body Lotion 500m",
+        "product_price": "260,000\u20ab",
+        "product_old_price": "280,000\u20ab",
+        "product_discount": "- 8%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a1-25042019030005.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a3-25042019030012.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-25042019030015.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u01b0\u1ee1ng Th\u1ec3 Vaseline Japan Limited Edition",
+        "product_price": "110,000\u20ab",
+        "product_old_price": "131,000\u20ab",
+        "product_discount": "- 17%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/hiba.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/vaseline-28112019090849.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/hana-28112019090903.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/vaseline-28112019090914.jpg"
+        ]
+    },
+    {
+        "product_name": "Kem D\u01b0\u1ee1ng Tr\u1eafng Body Alpha Arbutin 2In1 Cream",
+        "product_price": "80,000\u20ab",
+        "product_old_price": "103,000\u20ab",
+        "product_discount": "- 23%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a4-23032019030646.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-23032019030652.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a5-23032019030854.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u01b0\u1ee1ng Th\u1ec3 Bath&Body Works Body Cream",
+        "product_price": "270,000\u20ab",
+        "product_old_price": "291,000\u20ab",
+        "product_discount": "- 8%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a1-22022019045042.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-22022019045047.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a3-22022019045050.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a4-22022019045053.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u01b0\u1ee1ng Th\u1ec3 Cetaphil Moisturizing Cream For Body",
+        "product_price": "240,000\u20ab",
+        "product_old_price": "261,000\u20ab",
+        "product_discount": "- 9%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a3-16022019043350.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a1-16022019043354.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa D\u01b0\u1ee1ng Th\u1ec3 Hatomugi The Lotion Moisturizing",
+        "product_price": "130,000\u20ab",
+        "product_old_price": "151,000\u20ab",
+        "product_discount": "- 14%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/The-Lotion-Moisturizing.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa D\u01b0\u1ee1ng Th\u1ec3 Vaseline Concentrated 30X",
+        "product_price": "190,000\u20ab",
+        "product_old_price": "214,000\u20ab",
+        "product_discount": "- 12%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Avatar-SP-Web(1)(1)-Recovered-Recovered-Recovered(4).jpg"
+        ]
+    },
+    {
+        "product_name": "Kem D\u01b0\u1ee1ng Tr\u1eafng Da Caryophy Glass Skin 3 In 1",
+        "product_price": "620,000\u20ab",
+        "product_old_price": "644,000\u20ab",
+        "product_discount": "- 4%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/avatar-sp-web11-1-recovered-recovered-recovered-recovered-recovered-recovered-recovered-recovered-recovered-recovered-05032020084245.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/86766274_1242866179252391_7392253721373048832_o-05032020090757.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/87453890_1248289915376684_9044370723514089472_o-05032020090800.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/87979503_1248289925376683_1321564830003363840_o-05032020090806.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/28fd57e80c6c7b90e3fb177575a49cd0-05032020090814.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/87538960_1248289948710014_3975789593126502400_o-05032020090818.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u01b0\u1ee1ng Th\u1ec3 Tr\u1eafng Da Vaseline Healthy White",
+        "product_price": "190,000\u20ab",
+        "product_old_price": "208,000\u20ab",
+        "product_discount": "- 9%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a1-26012019011540.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-26012019011550.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a4-26012019011554.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u01b0\u1ee1ng Th\u1ec3 H\u01b0\u01a1ng N\u01b0\u1edbc Hoa Victoria'S Secret",
+        "product_price": "260,000\u20ab",
+        "product_old_price": "284,000\u20ab",
+        "product_discount": "- 9%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a1-15022019103247.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a3-15022019103253.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-15022019103257.jpg"
+        ]
+    },
+    {
+        "product_name": "B\u1ed9 Victoria'S Secret Fragrance Mist & Lotion",
+        "product_price": "520,000\u20ab",
+        "product_old_price": "546,000\u20ab",
+        "product_discount": "- 0%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a1-03012019100936.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-03012019100948.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a3-03012019100953.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a4-03012019100957.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u01b0\u1ee1ng Th\u1ec3 Bath&Body Works Shea&Vitamin-E",
+        "product_price": "210,000\u20ab",
+        "product_old_price": "234,000\u20ab",
+        "product_discount": "- 11%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a3-09112018024901.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a2-09112018024909.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a4-09112018024913.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u01b0\u1ee1ng Th\u1ec3 Tr\u1eafng Da Cathy Doll Ready 2 White",
+        "product_price": "160,000\u20ab",
+        "product_old_price": "185,000\u20ab",
+        "product_discount": "- 14%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a1-05112018043927.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa D\u01b0\u1ee1ng Th\u1ec3 Vaseline Healthy White UV",
+        "product_price": "100,000\u20ab",
+        "product_old_price": "165,000\u20ab",
+        "product_discount": "- 40%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a11-06112018105114.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u01b0\u1ee1ng Th\u1ec3 Cerave Itch Relief Moisturizing",
+        "product_price": "280,000\u20ab",
+        "product_old_price": "305,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a2-02112018042523.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u01b0\u1ee1ng Th\u1ec3 H\u01b0\u01a1ng N\u01b0\u1edbc Hoa Bath&Body Works",
+        "product_price": "220,000\u20ab",
+        "product_old_price": "245,000\u20ab",
+        "product_discount": "- 11%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/Avatar-SP-Web(1)(1)-(1)-Recovered-Recovered-Recovered-Recovered.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a4-25102018092222.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u01b0\u1ee1ng Th\u1ec3 The Body Shop Body Butter Cream 196gr",
+        "product_price": "350,000\u20ab",
+        "product_old_price": "376,000\u20ab",
+        "product_discount": "- 7%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a4-19102018090153.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a3-19102018090227.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a6-19102018090232.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u01b0\u1ee1ng Th\u1ec3 H\u01b0\u01a1ng N\u01b0\u1edbc Hoa Victoria'S Secret",
+        "product_price": "280,000\u20ab",
+        "product_old_price": "302,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/a2-13102018114515.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/a5-13102018114525.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa D\u01b0\u1ee1ng Th\u1ec3 Victoria'S Secret Fragrance",
+        "product_price": "280,000\u20ab",
+        "product_old_price": "302,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.1",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/sua-duong-the-victoria(1).jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/sua-duong-the-1.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/sua-duong-the-3.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/sua-duong-the-victoria(2).jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa D\u01b0\u1ee1ng Th\u1ec3 Vaseline Body Lotion 725ml",
+        "product_price": "150,000\u20ab",
+        "product_old_price": "175,000\u20ab",
+        "product_discount": "- 15%",
+        "product_rating": "4.1",
+        "product_colors": [
+            " rgb(150, 85, 85)",
+            " rgb(227, 163, 163)",
+            " rgb(255, 233, 11)",
+            " rgb(255, 255, 255)",
+            " rgb(127, 138, 237)",
+            " rgb(205, 101, 101)",
+            " rgb(31, 191, 29)",
+            " rgb(87, 189, 232)"
+        ],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/duong-the(2).jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/Vaseline-Body-Lotion-intensive-care-Beauty-Garden-1.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/Vaseline-Body-Lotion-intensive-care-Beauty-Garden-2.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/Vaseline-Body-Lotion-intensive-care-Beauty-Garden.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/Vaseline-Body-Lotion-intensive-care-Beauty-Garden-0(1).jpg"
+        ]
+    },
+    {
+        "product_name": "Set Qu\u00e0 T\u1eb7ng Victoria'S Secret Very Sexy",
+        "product_price": "1,350,000\u20ab",
+        "product_old_price": "1,375,000\u20ab",
+        "product_discount": "- 2%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/set-nuoc-hoa.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/set-nuoc-hoa-3.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/set-nuoc-hoa-2.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/set-nuoc-hoa-1.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa D\u01b0\u1ee1ng TFS - Perfume Seed White Peony Body Milk",
+        "product_price": "225,000\u20ab",
+        "product_old_price": "243,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/sua-duong-trang-da-hoa-mau-don-trang-perfume-seed-white-peony-body-milk-beauty-garden-1.jpg"
+        ]
+    },
+    {
+        "product_name": "T\u1ea5t Phun Ch\u00e2n Mistine The Nude Body Make Up",
+        "product_price": "140,000\u20ab",
+        "product_old_price": "159,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.2",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/tat-phun-chan-Mistine-The-Nude-Body-Make-Up-Mousse-Spray9.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/tat-phun-chan-Mistine-The-Nude-Body-Make-Up-Mousse-Spray-hinha-anh5.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/tat-phun-chan-Mistine-The-Nude-Body-Make-Up-Mousse-Spray-hinha-anh9.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/tat-phun-chan-Mistine-The-Nude-Body-Make-Up-Mousse-Spray-hinha-anh4.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa D\u01b0\u1ee1ng Th\u1ec3 Cottage Lait Corps Hydratant",
+        "product_price": "153,111\u20ab",
+        "product_old_price": "173,111\u20ab",
+        "product_discount": "- 12%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/sua-duong-the-Cottage-Lait-Corps-Hydratant-Moisturizing-Body-Milk-beauty-garden-1.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/duong-the-cottage-1.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/duong-the-cottage-2.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u1ea7u Th\u01a1m Th\u01b0 Gi\u00e3n Massage Bath & Body Works",
+        "product_price": "360,000\u20ab",
+        "product_old_price": "384,000\u20ab",
+        "product_discount": "- 7%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/dau-thom-thu-gian-Massage-Bath-Body-Works.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/dau-thom-thu-gian-massage-Bath-Body-Works-bath-Massage-oil-118ml-beauty-garden-1.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/dau-thom-thu-gian-Massage-Bath-Body-Works-2.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/dau-thom-thu-gian-Massage-Bath-Body-Works-1.jpg"
+        ]
+    },
+    {
+        "product_name": "X\u1ecbt D\u01b0\u1ee1ng To\u00e0n Th\u00e2n Vaseline Spray & Go Moisturizer",
+        "product_price": "148,250\u20ab",
+        "product_old_price": "170,250\u20ab",
+        "product_discount": "- 13%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/xit-duong-toan-than-vaseline-spray-and-go-moisturizer-beauty-garden-1.jpg"
+        ]
+    },
+    {
+        "product_name": "Kem D\u01b0\u1ee1ng Th\u1ec3 Works Ultra Shea Body Cream",
+        "product_price": "155,056\u20ab",
+        "product_old_price": "178,056\u20ab",
+        "product_discount": "- 13%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/kem-duong-the-bath-and-body-Works-Ultra-Shea-Body-Cream-beauty-garden-1.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/kem-duong-dark-kiss.jpg"
+        ]
+    },
+    null,
+    {
+        "product_name": "S\u1eefa D\u01b0\u1ee1ng Th\u1ec3 Victoria'S Secret Body Lotion",
+        "product_price": "270,000\u20ab",
+        "product_old_price": "290,000\u20ab",
+        "product_discount": "- 10%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/%C3%B4.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/sua-duong-the-victoria's-secret-body-lotion-ava-1.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/sua-duong-the-victoria's-secret-body-lotion.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/sua-duong-the-victoria's-secret-body-lotion-ava-2.jpg"
+        ]
+    },
+    {
+        "product_name": "D\u01b0\u1ee1ng \u1ea8m Ch\u00e2n Innisfree Special Care Mask Foot",
+        "product_price": "60,000\u20ab",
+        "product_old_price": "80,000\u20ab",
+        "product_discount": "- 25%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/duong-am-chan-Innisfree-Special-Care-Mask-Foot-beauty-garden-1.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa D\u01b0\u1ee1ng Th\u1ec3 Innisfree Green Tea Pure Body Lotion",
+        "product_price": "250,000\u20ab",
+        "product_old_price": "273,000\u20ab",
+        "product_discount": "- 9%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/sua-duong-the-innisfree-greentea_pure-body_lotion-beauty-garden-1.jpg"
+        ]
+    },
+    {
+        "product_name": "S\u1eefa D\u01b0\u1ee1ng Th\u1ec3 The Face Shop Grapefruit Body Lotion",
+        "product_price": "145,333\u20ab",
+        "product_old_price": "169,333\u20ab",
+        "product_discount": "- 15%",
+        "product_rating": "4.5",
+        "product_colors": [],
+        "product_cat": {
+            "cat_id": "duong-the-body-lotion",
+            "cat_text": "D\u01b0\u1ee1ng th\u1ec3 - Body Lotion",
+            "parent_cat": {
+                "cat_id": "cham-soc-toan-than",
+                "cat_text": "Ch\u0103m S\u00f3c To\u00e0n Th\u00e2n"
+            }
+        },
+        "product_img_urls": [
+            "https://adminbeauty.hvnet.vn/Upload/Files/sua-duong-the-The-Face-Shop-Grapefruit-Body-Lotion-beauty-garden-1.jpg",
+            "https://adminbeauty.hvnet.vn//Upload/files/sua-duong-the-The-Face-Shop-Grapefruit-Body-Lotion-beauty-garden-2.jpg"
+        ]
     }
 ]
